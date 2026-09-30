@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/32847808/README.1.md)
+
 # Doctor-Appointment-Management-System
 "A web-based Doctor Appointment Management System developed using PHP and MySQL for MediCare Hospital - Tangalle . It streamlines hospital operations by providing secure role-based portals for Patients, Doctors, and Administrators to handle online bookings, schedules, and medical records efficiently."
 
