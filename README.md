@@ -4,20 +4,42 @@
 
 
 
-
-## 🔑 Key Features
-* 👤 **Patient Portal:** Patient registration, doctor search by specialization, and online appointment booking.
-* 
-* 👨‍⚕️ **Doctor Portal:** View and manage doctor schedules and patient appointments.
-* 
-* ⚙️ **Admin Dashboard:** Manage doctors, patients, system settings, and monitor appointments.
-
 ## 🛠️ Tech Stack
 
 * **Frontend:** HTML5, CSS3, JavaScript
 * **Backend:** PHP
 * **Database:** MySQL
 * **Server:** XAMPP (Apache + MySQL)
+
+## Features
+
+### Admin
+  
+- Admin can add doctors, edit doctors, and delete doctors    
+- Schedule new doctors sessions, remove sessions   
+- View patients details    
+- View booking of patients    
+    
+    
+ 
+ 
+### Doctors
+
+- View their Appointment
+- View their scheduled sessions
+- View details of patients
+- Delete account    
+- Edit account settings
+    
+
+    
+### Patients (Clients)
+  
+  - Make appointment online
+  - Create accounts themselves
+  - View their old booking
+  - Delete account
+  - Edit account settings   
 
 ## 🚀 Installation & Setup
 
